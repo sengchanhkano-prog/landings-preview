@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#ea580c"/>
+      <stop offset="100%" stop-color="#0c0a09"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="80" y="320" font-family="-apple-system, sans-serif" font-size="80" font-weight="700" fill="white">Gym</text>
+  <text x="80" y="400" font-family="-apple-system, sans-serif" font-size="36" font-weight="400" fill="white" opacity="0.9">Strength, conditioning, and community in the heart of {{city}}</text>
+</svg>
