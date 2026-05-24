@@ -1,0 +1,9 @@
+/* Brand color overrides — replaced by landing_personalize.py at deploy time.
+   Loaded AFTER the compiled Tailwind CSS so it wins specificity. */
+:root {
+  --c-primary: #2563eb;
+  --c-secondary: #06b6d4;
+  --c-primary-soft: #2563eb14;
+  --c-primary-soft-2: #2563eb26;
+  --c-secondary-soft: #06b6d414;
+}
